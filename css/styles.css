@@ -320,12 +320,11 @@ display: flex;
 .portfolio {
 display: flex;
 flex-wrap: wrap;
-width: 1200px;
+
 }
 
 .portfolio li {
   width: 370px;
-  /* width: calc((100%-60px)/3); */
   /* background-color: red; */
   margin-right: 30px;
   margin-bottom: 30px;
